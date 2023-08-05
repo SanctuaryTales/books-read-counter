@@ -35,6 +35,11 @@ button {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
+#save-el{
+    font-size: 50px;
+}
+
+
 #increment-btn {
     background: #DFA878;
 }
